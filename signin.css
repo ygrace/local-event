@@ -1,0 +1,45 @@
+html,body {
+	height: 100%;
+	width: 100%;
+	background-color: #F9F9F9;
+
+}
+
+.card {
+	width: 400px;
+	height: 400px;
+	background-color: white;
+}
+
+
+h1 {
+	font-family: 'Share Tech', sans-serif;
+	color: #6E5F5D;
+}
+
+form {
+	color: #5E5E5E ;
+
+
+}
+
+
+
+.email,.password {
+	width: 220px;
+	height: 35px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: 1px solid #D6C6C4;
+
+}
+
+.btn-primary {
+	width: 220px;
+	height: 35px;
+	border-radius: 5px;
+	margin-top: 20px;
+	background-color: #FF4A45;
+	border-color: #FF4A45;
+
+}
